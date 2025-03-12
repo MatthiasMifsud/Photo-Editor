@@ -26,8 +26,14 @@ This Python script implements a simple photo editor GUI using the `customtkinter
 
 You can install the required packages using pip:
 
+```
 pip install customtkinter Pillow opencv-python
+```
 
+## Usage
+
+1.  Save the provided Python code into a file.
+2.  Run the script:
 3.  Enter the path to an image in the text box and click "Get Image Path".
 4.  Use the slider to adjust the filter strength.
 5.  Click the filter buttons to apply effects.
